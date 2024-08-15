@@ -57,13 +57,13 @@ http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8?&token=RGltb25vdmljaD
 http://195.158.222.115:8001/play/a0au/index.m3u8
 #EXTINF:-1 group-title="SW", КОМЕДИЙНОЕ
 http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Кино", КИНО ТВ
+#EXTINF:-1 group-title="SW", КИНО ТВ
 http://91.205.199.3/kinotvhd/index.m3u8
-#EXTINF:-1 group-title="Кино", БЛОКБАСТЕР
+#EXTINF:-1 group-title="SW", БЛОКБАСТЕР
 http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
-#EXTINF:-1 group-title="Кино", КИНОПОКАЗ
+#EXTINF:-1 group-title="SW", КИНОПОКАЗ
 http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
-#EXTINF:-1 group-title="Кино", CINEMA
+#EXTINF:-1 group-title="SW", CINEMA
 http://iptv.mega.net.ru:8888/History_HD/mono.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
