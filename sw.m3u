@@ -50,11 +50,21 @@ http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 http://hls.seversk.ru:8080/play/a00t/index.m3u8
 #EXTINF:-1 group-title="SW", GAGS NETWORK 16+
 http://188.190.222.48:8765/Gagsnetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SW", ЧЁ!
+http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=V1RLWk1zZGN1d0d3aXBXNVhwS29oQTMyTndyVlRKQjRoakN1M2R0S0Fnbz06Or295CIR0OBWvoTJa8GS4CI%3D
 
-#EXTINF:-1 group-title="SW", КИНО БЕЗ ГРАНИЦ HD
+#EXTINF:-1 group-title="SW", КИНО БЕЗ ГРАНИЦ
 http://195.158.222.115:8001/play/a0au/index.m3u8
 #EXTINF:-1 group-title="SW", КОМЕДИЙНОЕ
 http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Кино", КИНО ТВ
+http://91.205.199.3/kinotvhd/index.m3u8
+#EXTINF:-1 group-title="Кино", БЛОКБАСТЕР
+http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
+#EXTINF:-1 group-title="Кино", КИНОПОКАЗ
+http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Кино", CINEMA
+http://iptv.mega.net.ru:8888/History_HD/mono.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
 http://94.232.104.237:8011/komediyatv/index.m3u8
