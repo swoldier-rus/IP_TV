@@ -14,22 +14,22 @@ http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
 http://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 group-title="SW", ПЯТНИЦА!
-#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ HD
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ
 https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
-#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К HD
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ ЦЕНТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ HD
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
 http://player.smotrim.ru/iframe/stream/live_id/64556?43
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА HD
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/World.png", МИР HD
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/World.png", МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
