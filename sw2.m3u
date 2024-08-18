@@ -93,8 +93,6 @@ http://iptv3.mega.net.ru:8888/TVRU1/VIP_Serial/index.m3u8
 
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://tv.tuva.ru:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! HD
-http://185.112.140.28/Match_TV_HD/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
 http://185.78.112.17/nash-football/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
