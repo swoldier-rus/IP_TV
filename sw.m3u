@@ -207,8 +207,4 @@ https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 http://94.232.104.237:8011/eurosport2/index.m3u8
 
 
-#EXTINF:-1 group-title="SW", EUROSPORT 1
-https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SW", EUROSPORT 2
-http://94.232.104.237:8011/eurosport2/index.m3u8
 
