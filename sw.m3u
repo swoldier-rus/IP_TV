@@ -200,7 +200,7 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
 http://88.85.172.243:7002/play/a02k
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
-http://195.158.222.115:8000/play/82/index.m3u8
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="SW", EUROSPORT 1
 https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 2
