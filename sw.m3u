@@ -6,7 +6,7 @@ http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="SW", ТНТ
-http://195.158.222.115:8000/play/155/index.m3u8
+http://94.232.104.237:8011/tnthd/index.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
 http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 group-title="SW", СТС
@@ -18,7 +18,7 @@ http://91.207.114.220:9001/play/a05d/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ
 http://iptv.mega.net.ru:8888/REN_TV/mono.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К
-http://195.158.222.115:8000/play/6/index.m3u8
+http://91.207.114.220:9001/play/a053/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ ЦЕНТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
@@ -61,13 +61,13 @@ http://iptv.mega.net.ru:8888/History_HD/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
-http://195.158.222.115:8000/play/47/index.m3u8
+https://stream2.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
 https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
-http://195.158.222.115:8000/play/43/index.m3u8
+https://stream2.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
 http://94.232.104.237:8011/kinohithd/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОХИТ
@@ -93,15 +93,15 @@ http://iptv3.mega.net.ru:8888/TVRU1/VIP_Serial/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://tv.tuva.ru:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
-http://185.78.112.17/nash-football/index.m3u8
+http://31.211.77.158:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
-http://195.158.222.115:8000/play/81/index.m3u8
+http://88.85.172.243:7002/play/a02k
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
 http://195.158.222.115:8000/play/82/index.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 1
 https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 2
-http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+http://94.232.104.237:8011/eurosport2/index.m3u8
 
