@@ -14,8 +14,9 @@ http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
 http://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 group-title="SW", ПЯТНИЦА!
+http://91.207.114.220:9001/play/a05d/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ
-http://188.134.76.176:81/udp/235.10.10.220:1234
+http://iptv.mega.net.ru:8888/REN_TV/mono.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К
 http://195.158.222.115:8000/play/6/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ ЦЕНТР
@@ -23,9 +24,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
 https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/World.png", МИР
@@ -33,17 +34,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
 http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
-#EXTINF:-1 group-title="SW", ANIMAL PLANET HD
-http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="SW", DISCOVERY
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="SW", DISCOVERY HD
-http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="SW", HISTORY
 http://195.211.27.149:8887/8356/index.m3u8?token=test
 #EXTINF:-1 group-title="SW", NICKELODEON
-http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
-#EXTINF:-1 group-title="SW", NICKELODEON HD
 http://hls.seversk.ru:8080/play/a00t/index.m3u8
 #EXTINF:-1 group-title="SW", Че!
 http://s83.chas.tv:8081/chas/perec-hq.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=V1RLWk1zZGN1d0d3aXBXNVhwS29oQTMyTndyVlRKQjRoakN1M2R0S0Fnbz06Or295CIR0OBWvoTJa8GS4CI%3D
@@ -67,85 +62,46 @@ http://iptv.mega.net.ru:8888/History_HD/mono.m3u8
 http://94.232.104.237:8011/komediyatv/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
 http://195.158.222.115:8000/play/47/index.m3u8
-#EXTINF:-1 group-title="SW", КИНОМИКС HD
-http://hls127.homeiptv.org:8880/Kinomix_HD/video.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://91.205.199.3/kinopremerahd/index.m3u8
-#EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА HD
 https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
-https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SW", КИНОСЕМЬЯ HD
 http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
 http://195.158.222.115:8000/play/43/index.m3u8
-#EXTINF:-1 group-title="SW", КИНОСЕРИЯ HD
-http://94.232.104.237:8011/kinoseriya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
 http://94.232.104.237:8011/kinohithd/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОХИТ
-http://185.112.140.28/Kinohit/index.m3u8
-#EXTINF:-1 group-title="SW", КИНОХИТ HD
 http://91.205.199.3/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
 https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО HD
-http://91.218.160.212:8015/play/a026/index.m3u8
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://iptv.mega.net.ru:8888/TV1000_HD/mono.m3u8
-#EXTINF:-1 group-title="SW", VIJU TV1000 HD
-http://141.95.55.143/CH3869/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
 http://94.232.104.237:8011/tv1000action/index.m3u8
-#EXTINF:-1 group-title="SW", VIJU TV1000 ACTION HD
-https://stream2.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
-http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
-#EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
-http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
 http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
-#EXTINF:-1 group-title="SW", VIJU+ PREMIERE HD
-http://94.232.104.237:8011/natgeowild/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
-http://185.112.140.28/VIPMegahit/index.m3u8
-#EXTINF:-1 group-title="SW", VIJU+ MEGAHIT HD
 http://185.112.140.28/VIPMegahit/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
 http://iptv.mega.net.ru:8888/ViP_Comedy_HD/mono.m3u8
-#EXTINF:-1 group-title="SW", VIJU+ COMEDY HD
-http://185.112.140.28/VIPComedy/index.m3u8
-#EXTINF:-1 group-title="SW", VIJU+ SERIAL HD
+#EXTINF:-1 group-title="SW", VIJU+ SERIAL
 http://iptv3.mega.net.ru:8888/TVRU1/VIP_Serial/index.m3u8
 
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://tv.tuva.ru:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! HD
-http://185.112.140.28/Match_TV_HD/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
 http://185.78.112.17/nash-football/index.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР HD
-http://195.158.222.115:8000/play/162/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1 HD
-http://195.158.222.115:8001/play/a00t/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
 http://195.158.222.115:8000/play/81/index.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2 HD
-http://195.158.222.115:8001/play/a00o/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
 http://195.158.222.115:8000/play/82/index.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3 HD
-http://195.158.222.115:8001/play/a00p/index.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 1
 https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SW", EUROSPORT 1 HD
-http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 2
 http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
-#EXTINF:-1 group-title="SW", EUROSPORT 2 HD
-http://81.198.190.9:7878/esp2/video.m3u8
+
