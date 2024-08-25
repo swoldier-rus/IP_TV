@@ -24,7 +24,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
 https://stream1.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+http://81.23.189.54:4022/udp/234.0.0.171:2000
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
@@ -93,7 +93,7 @@ http://iptv3.mega.net.ru:8888/TVRU1/VIP_Serial/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://tv.tuva.ru:8080/machtv/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
-http://91.207.115.228:5000/c105
+http://31.211.77.158:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
