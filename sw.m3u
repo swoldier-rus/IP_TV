@@ -52,11 +52,11 @@ http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНО ТВ
 http://91.205.199.3/kinotvhd/index.m3u8
 #EXTINF:-1 group-title="SW", БЛОКБАСТЕР
-http://str13.tv/8653/video.m3u8?token=4e6a95da7f6207f95e5ef5c7b826ee46
+http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
 http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="SW", CINEMA
-http://iptv.mega.net.ru:8888/History_HD/mono.m3u8
+http://91.205.199.3/sinema/index.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
 http://91.207.114.220:9001/play/a04r/index.m3u8
@@ -101,9 +101,8 @@ http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
 http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="SW", EUROSPORT 1
-https://stream2.cinerama.uz/1439/tracks-v1a1/mono.m3u8
+http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 2
-http://94.232.104.237:8011/eurosport2/index.m3u8
-
+http://91.196.37.133:4000/play/a01g
 
 
