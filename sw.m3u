@@ -6,7 +6,7 @@ http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="SW", ТНТ
-http://94.232.104.237:8011/tnthd/index.m3u8
+http://91.90.255.235:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
 http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 group-title="SW", СТС
@@ -59,21 +59,21 @@ http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
 http://iptv.mega.net.ru:8888/History_HD/mono.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
-http://94.232.104.237:8011/komediyatv/index.m3u8
+http://91.207.114.220:9001/play/a04r/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
-https://stream2.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+http://91.207.114.220:9001/play/a04o/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-https://stream2.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
-https://stream2.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+http://178.163.99.241:4022/udp/234.0.0.119:2000
 #EXTINF:-1 group-title="SW", КИНОУЖАС
-http://94.232.104.237:8011/kinohithd/index.m3u8
+http://91.207.114.220:9001/play/a04w/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОХИТ
-http://91.205.199.3/kinoxithd/index.m3u8
+http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+http://91.207.115.228:9001/play/a04t/index.m3u8
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://iptv.mega.net.ru:8888/TV1000_HD/mono.m3u8
