@@ -63,7 +63,7 @@ http://91.207.114.220:9001/play/a04r/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
 http://91.207.114.220:9001/play/a04o/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+http://91.205.199.3/kinopremerahd/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
