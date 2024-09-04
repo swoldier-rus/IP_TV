@@ -78,7 +78,7 @@ http://91.207.115.228:9001/play/a04t/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://95.156.76.230:33001/udp/230.4.34.98:1234
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
-http://95.156.76.230:33001/udp/230.4.34.97:1234
+http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
