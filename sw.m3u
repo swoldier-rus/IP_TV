@@ -4,11 +4,11 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", РОССИЯ 1
 http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+http://s83.chas.tv:8081/chas/ntvtv-hq.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=QXRhTDdJOVJ4NENEMmRPaW93N2kxUmJSRjZJam1ueGh5dXZWMFVkOXkwZz06Ojx2xDk2FIOSwKrWMCNXmfU%3D
 #EXTINF:-1 group-title="SW", ТНТ
 http://91.90.255.235:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
-http://edge02.odtv.az/o7/tnt4/playlist.m3u8
+http://s83.chas.tv:8081/chas/fourtv-hq.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=aUFma0owd0xvZDdUdCtsYjdQR1NYMmFjRGRIZlN4d3NxSlRKZG1MU3U2bz06OndwOtG0QPn6HMnM6owEmkw%3D
 #EXTINF:-1 group-title="SW", СТС
 http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
@@ -33,9 +33,9 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
-http://edge02.odtv.az/o5/animalplanet/playlist.m3u8
+http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", DISCOVERY
-http://stream01.vnet.am/DiscoveryChannel/index.m3u8
+http://hls.seversk.ru:8080/play/a01g/index.m3u8
 #EXTINF:-1 group-title="SW", HISTORY
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", NICKELODEON
