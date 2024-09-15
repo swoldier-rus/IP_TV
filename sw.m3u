@@ -126,7 +126,7 @@ http://hls127.homeiptv.org:8880/Clarity4K_Priklucheniya/video.m3u8
 http://hls127.homeiptv.org:8880/Clarity4K_Semeyniy/video.m3u8
 #EXTINF:-1 group-title="SW", Clarity4K Serial
 http://hls127.homeiptv.org:8880/Clarity4K_Serial/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Uzhasi
+#EXTINF:-1 group-title="SW", tvg-id="clarity4k-uzasy", Clarity4K Uzhasi
 http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
 
 
