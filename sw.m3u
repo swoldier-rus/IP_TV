@@ -5,6 +5,8 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 http://91.90.255.235:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
 http://s83.chas.tv:8081/chas/ntvtv-hq.stream/playlist.m3u8?&token=RGltb25vdmljaDoxOTgyMTk4Mg==&OnlineTV=QXRhTDdJOVJ4NENEMmRPaW93N2kxUmJSRjZJam1ueGh5dXZWMFVkOXkwZz06Ojx2xDk2FIOSwKrWMCNXmfU%3D
+#EXTINF:-1 group-title="SW", 5 канал
+http://81.23.189.54:4022/udp/234.0.0.205:2000
 #EXTINF:-1 group-title="SW", ТНТ
 http://91.90.255.235:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
@@ -104,29 +106,3 @@ http://185.57.68.33/110/mpegts
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 2
 http://91.196.37.133:4000/play/a01g
-
-
-#EXTINF:-1 group-title="SW", Clarity4K Фантастика
-http://hls127.homeiptv.org:8880/Clarity4K_Fantastic/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Netflix
-http://hls127.homeiptv.org:8880/Clarity4K_Netflix/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Боевик
-http://hls127.homeiptv.org:8880/Clarity4K_Boevik/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Драмы
-http://hls127.homeiptv.org:8880/Clarity4K_Dramma/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Asia
-http://hls127.homeiptv.org:8880/Clarity4K_Asia/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K КиноФраншизы
-http://hls127.homeiptv.org:8880/Clarity4K_Kinofranshiza/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Комедия
-http://hls127.homeiptv.org:8880/Clarity4K_Komediya/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Приключения
-http://hls127.homeiptv.org:8880/Clarity4K_Priklucheniya/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Семейный
-http://hls127.homeiptv.org:8880/Clarity4K_Semeyniy/video.m3u8
-#EXTINF:-1 group-title="SW", Clarity4K Сериал
-http://hls127.homeiptv.org:8880/Clarity4K_Serial/video.m3u8
-#EXTINF:-1 group-title="SW", tvg-id="clarity4k-uzasy", Clarity4K Ужасы
-http://hls127.homeiptv.org:8880/Clarity4K_Uzhasi/video.m3u8
-
-
