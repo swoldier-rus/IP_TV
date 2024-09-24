@@ -2,7 +2,7 @@ function FindProxyForURL(url, host) {
 
   if(dnsDomainIs(host, "googlevideo.com")) {
   
-    return 'PROXY <IP-адрес-прокси>:<порт-прокси>';
+    return 'PROXY <192.168.0.1>:<1080>';
   
   }
   else {
