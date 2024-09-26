@@ -53,8 +53,8 @@ http://91.207.114.220:9001/play/a05r/index.m3u8
 http://91.207.115.228:12000/play/a04m
 #EXTINF:-1 group-title="SW", КИНО ТВ
 http://91.205.199.3/kinotvhd/index.m3u8
-#EXTINF:-1 group-title="SW", БЛОКБАСТЕР
-http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
+#EXTINF:-1 group-title="SW", НСТ
+http://188.134.76.176:81/udp/235.10.10.218:1234
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", CINEMA
@@ -105,4 +105,4 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="SW", EUROSPORT 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 2
-rtmp://5.182.229.90//7203
+http://91.207.115.228:12000/play/a045
