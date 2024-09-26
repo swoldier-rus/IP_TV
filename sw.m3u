@@ -24,7 +24,7 @@ http://91.207.114.220:9001/play/a053/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ ЦЕНТР
 http://91.207.114.220:9001/play/a057/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
-http://91.234.108.44:8886/udp/237.0.1.14:10000
+http://91.142.158.107:8092/play/14/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
 http://81.23.189.54:4022/udp/234.0.0.171:2000
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
@@ -49,14 +49,14 @@ http://185.50.148.2:7702/Che/index.m3u8
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", ДОМ КИНО
 http://91.207.114.220:9001/play/a05r/index.m3u8
-#EXTINF:-1 group-title="SW", КОМЕДИЙНОЕ
-http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
+#EXTINF:-1 group-title="SW", КОМЕДИЯ
+http://91.207.115.228:12000/play/a04m
 #EXTINF:-1 group-title="SW", КИНО ТВ
 http://91.205.199.3/kinotvhd/index.m3u8
 #EXTINF:-1 group-title="SW", БЛОКБАСТЕР
 http://hls127.homeiptv.org:8880/Blockbaster_HD/video.m3u8
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
-http://hls127.homeiptv.org:8880/Kinopokaz_HD/video.m3u8
+http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", CINEMA
 http://91.205.199.3/sinema/index.m3u8
 
@@ -86,7 +86,7 @@ http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
 http://iptv.mega.net.ru:8888/ViP_Premiere_HD/mono.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
-http://hls127.homeiptv.org:8880/ViP_Megahit/video.m3u8
+http://91.207.115.228:12000/play/a03w
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
 http://91.207.115.228:12000/play/a03v
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
@@ -105,4 +105,4 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="SW", EUROSPORT 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 2
-http://91.196.37.133:4000/play/a01g
+rtmp://5.182.229.90//7203
