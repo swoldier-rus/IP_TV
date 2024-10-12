@@ -1,6 +1,6 @@
 function FindProxyForURL(url, host)
 {
-  var proxy_1 = "PROXY 192.168.0.10:1080";
+  var proxy_1 = "PROXY 127.0.0.1:12334";
   
   if (dnsDomainIs(host, "ytimg.com")) { return proxy_1; }
   if (dnsDomainIs(host, "youtube.com")) { return proxy_1; }
