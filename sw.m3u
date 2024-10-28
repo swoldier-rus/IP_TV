@@ -75,7 +75,7 @@ http://178.163.0.173:4022/udp/234.0.0.114:2000
 #EXTINF:-1 group-title="SW", КИНОХИТ
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-http://91.224.169.250:5000/c
+http://91.224.169.250:5000/c28
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
