@@ -61,19 +61,19 @@ http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 http://91.205.199.3/sinema/index.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
-http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
+http://77.235.1.17/kinomix/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
-https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+https://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
-http://178.163.0.173:4022/udp/234.0.0.114:2000
+http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="SW", КИНОХИТ
-http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
+http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
 http://91.224.169.250:5000/c28
 
@@ -86,7 +86,7 @@ http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
 http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
-http://188.134.76.176:81/udp/235.10.10.135:1234
+http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
 http://95.156.76.230:33001/udp/230.4.34.109:1234
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
