@@ -105,4 +105,4 @@ http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="SW", EUROSPORT 1
 http://45.132.87.69:8080/eurosport1/mono.m3u8
 #EXTINF:-1 group-title="SW", EUROSPORT 2
-http://91.207.115.228:12000/play/a045
+http://91.224.169.250:5000/c168
