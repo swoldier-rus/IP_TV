@@ -67,7 +67,7 @@ http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
 http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
-http://91.205.199.3/kinosemyahd/index.m3u8
+http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
