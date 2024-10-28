@@ -2,31 +2,31 @@
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/First-HD.png", ПЕРВЫЙ КАНАЛ
 https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", РОССИЯ 1
-http://91.207.115.228:12000/play/a02o
+http://91.224.169.250:5000/c302
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="SW", 5 канал
-http://91.207.115.228:12000/play/a005
+http://91.234.108.44:8886/udp/237.0.1.5:10000
 #EXTINF:-1 group-title="SW", ТНТ
-http://91.207.115.228:12000/play/a00j
+http://185.50.148.2:7702/TNT/index.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
-http://91.207.115.228:12000/play/a03u
+http://188.134.76.176:81/udp/235.10.10.13:1234
 #EXTINF:-1 group-title="SW", СТС
 http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
 http://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 group-title="SW", ПЯТНИЦА!
-http://91.207.114.220:9001/play/a05d/index.m3u8
+http://91.234.108.44:8886/udp/237.0.1.17:10000
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ
-http://91.207.115.228:12000/play/a00b
+http://91.142.158.107:8092/play/41/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К
-http://91.207.114.220:9001/play/a053/index.m3u8
+http://91.142.158.107:8092/play/36/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ ЦЕНТР
-http://91.207.114.220:9001/play/a057/index.m3u8
+http://91.224.169.250:5000/c310
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
 http://91.142.158.107:8092/play/14/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
-http://91.207.115.228:12000/play/a00f
+http://91.234.108.44:8886/udp/237.0.1.15:10000
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
@@ -37,7 +37,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
 http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", DISCOVERY
-http://91.207.115.228:12000/play/a03y
+http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1 group-title="SW", HISTORY
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", NICKELODEON
@@ -46,36 +46,36 @@ http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
 http://185.50.148.2:7702/Che/index.m3u8
 
 #EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-http://91.207.115.228:12000/play/a00s
+http://91.224.169.250:5000/c59
 #EXTINF:-1 group-title="SW", ДОМ КИНО
-http://91.207.114.220:9001/play/a05r/index.m3u8
+http://188.134.76.176:81/udp/235.10.10.74:1234
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
-http://91.207.115.228:12000/play/a04m
+http://91.142.158.107:8092/play/30/index.m3u8
 #EXTINF:-1 group-title="SW", КИНО ТВ
 http://91.205.199.3/kinotvhd/index.m3u8
 #EXTINF:-1 group-title="SW", НСТ
-http://91.207.115.228:12000/play/a04n
+http://91.224.169.250:5000/c16
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", CINEMA
 http://91.205.199.3/sinema/index.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
-http://91.207.114.220:9001/play/a04r/index.m3u8
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОМИКС
-http://91.207.114.220:9001/play/a04o/index.m3u8
+http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://91.205.199.3/kinopremerahd/index.m3u8
+http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://91.205.199.3/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
-http://81.23.189.170:4022/udp/234.0.0.119:2000
+https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
-http://91.207.114.220:9001/play/a04w/index.m3u8
+http://178.163.0.173:4022/udp/234.0.0.114:2000
 #EXTINF:-1 group-title="SW", КИНОХИТ
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-http://91.207.115.228:9001/play/a04t/index.m3u8
+http://91.224.169.250:5000/c
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
@@ -84,11 +84,11 @@ http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
-http://91.207.115.228:12000/play/a03x
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
-http://91.207.115.228:12000/play/a03w
+http://188.134.76.176:81/udp/235.10.10.135:1234
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
-http://91.207.115.228:12000/play/a03v
+http://95.156.76.230:33001/udp/230.4.34.109:1234
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
 http://88.85.172.243:7006/play/a017
 
