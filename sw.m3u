@@ -50,7 +50,7 @@ http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 group-title="SW", ДОМ КИНО
 http://91.194.191.241:8081/chid294/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
-http://91.142.158.107:8092/play/30/index.m3u8
+http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="SW", КИНО ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="SW", НСТ
@@ -61,7 +61,7 @@ http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 http://91.205.199.3/sinema/index.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
-http://130.193.73.10:8937/play/a03k
+http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
 http://77.235.1.17/kinomix/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
