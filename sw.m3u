@@ -6,7 +6,7 @@ http://91.224.169.250:5000/c302
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="SW", 5 канал
-http://91.234.108.44:8886/udp/237.0.1.5:10000
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="SW", ТНТ
 http://185.50.148.2:7702/TNT/index.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
@@ -16,7 +16,7 @@ http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
 http://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 group-title="SW", ПЯТНИЦА!
-http://91.234.108.44:8886/udp/237.0.1.17:10000
+http://93.189.224.246:52900/play/a00n/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К
@@ -26,7 +26,7 @@ http://91.224.169.250:5000/c310
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
-http://91.234.108.44:8886/udp/237.0.1.15:10000
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
 http://94.230.128.105:8080/OTP/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
@@ -58,7 +58,7 @@ http://91.224.169.250:5000/c16
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
 http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", CINEMA
-http://91.205.199.3/sinema/index.m3u8
+http://catchup.videoline.ru/cinema/index.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
 http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
