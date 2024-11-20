@@ -5,6 +5,8 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 http://91.224.169.250:5000/c302
 #EXTINF:-1 group-title="SW", tvg-id="russia1" tvg-name="Россия-1" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", РОССИЯ 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
+#EXTINF:-1 group-title="SW", КУБАНЬ 24
+https://river-mskm9rtk-331.rutube.ru/stream/genetta-319.m9.rutube.ru/7ZzV7BeDL-zAbV49FROxrg/1732713716/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="SW", 5 канал
