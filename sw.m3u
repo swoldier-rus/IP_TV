@@ -50,7 +50,7 @@ http://185.50.148.2:7702/Che/index.m3u8
 #EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 group-title="SW", ДОМ КИНО
-http://91.194.191.241:8081/chid294/tracks-v1a1/mono.m3u8
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="SW", КИНО ТВ
@@ -86,9 +86,9 @@ http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
-http://193.242.204.28:10072/72
+http://193.242.190.6:8099/200/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
-http://193.242.204.28:10071/71
+http://193.242.190.6:8099/201/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
 http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
