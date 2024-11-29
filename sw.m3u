@@ -94,9 +94,7 @@ http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 http://77.235.1.17/vip_serial/index.m3u8
 
 #EXTINF:-1 group-title="SW", МАТЧ!
-http://tv.tuva.ru:8080/machtv/index.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ!2
-https://m3u8.video.matchtv.ru/media/playlist/ch_2856aabdf73e496d7fca681d5a1d6851/17_86669241/720/1a27a8de1064414a69c4f13d515db6b0/1732524000.m3u8?sr=14&seek=1732479000
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
