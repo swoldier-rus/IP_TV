@@ -40,7 +40,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
 http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", DISCOVERY
-http://edge02.odtv.az/o5/discovery/playlist.m3u8
+http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="SW", HISTORY
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", NICKELODEON
@@ -91,8 +91,7 @@ http://193.242.190.6:8099/201/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
 http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
-http://77.235.1.17/vip_serial/index.m3u8
-
+http://193.242.190.6:8099/204/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
