@@ -62,7 +62,7 @@ http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
 http://catchup.videoline.ru/cinema/index.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
-http://94.230.128.105:8080/Kinokomedia_TV/index.m3u8
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОМИКС
 http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
@@ -83,7 +83,7 @@ http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
-http://135.181.115.81:8000/play/a00h/index.m3u8?token=livetv
+https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
 http://193.242.190.6:8099/200/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
@@ -102,7 +102,3 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="SW", EUROSPORT 1
-http://45.132.87.69:8080/eurosport1/mono.m3u8
-#EXTINF:-1 group-title="SW", EUROSPORT 2
-rtmp://5.182.229.90//7203
