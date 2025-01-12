@@ -10,7 +10,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="SW", 5 канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 group-title="SW", ТНТ
-http://185.50.148.2:7702/TNT/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="SW", СТС
@@ -91,12 +91,13 @@ http://193.242.190.6:8099/201/index.m3u8
 http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
 http://193.242.190.6:8099/204/index.m3u8
+
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
 http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
