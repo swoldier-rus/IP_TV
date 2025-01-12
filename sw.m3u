@@ -4,7 +4,6 @@ https://edge3.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="SW", tvg-id="russia1" tvg-name="Россия-1" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", РОССИЯ 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
 #EXTINF:-1 group-title="SW", КУБАНЬ 24
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
@@ -55,37 +54,37 @@ http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="SW", КИНО ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
-http://65.21.85.175:8000/play/a02a/index.m3u8?token=livetv
+http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", CINEMA
 http://catchup.videoline.ru/cinema/index.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
-http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+http://213.226.137.140:81/tl/l52/mpegts
 #EXTINF:-1 group-title="SW", КИНОМИКС
-http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
+http://185.50.148.2:7711/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
-http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
+http://193.242.190.6:8099/85/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
-https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="SW", КИНОУЖАС
 http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="SW", КИНОХИТ
 http://185.50.148.2:7711/Kinohit/index.m3u8
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-https://stream2.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+http://213.226.137.140:81/tl/l111/mpegts
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
-https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+http://213.226.137.140:81/tl/l93/mpegts
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
-http://193.242.190.6:8099/200/index.m3u8
+http://213.226.137.140:81/tl/l319/mpegts
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
 http://193.242.190.6:8099/201/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
