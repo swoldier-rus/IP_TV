@@ -30,20 +30,20 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
-http://94.230.128.105:8080/OTP/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/World.png", МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
-http://135.181.115.81:8000/play/a008/index.m3u8?token=livetv
+http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="SW", DISCOVERY
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="SW", HISTORY
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", NICKELODEON
-http://135.181.115.81:8000/play/a009/index.m3u8?token=livetv
+http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", Че!
 http://185.50.148.2:7702/Che/index.m3u8
 
@@ -78,7 +78,7 @@ http://185.50.148.2:7711/Kinohit/index.m3u8
 http://213.226.137.140:81/tl/l111/mpegts
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
-http://135.181.115.81:8000/play/a00i/index.m3u8?token=livetv
+http://flu.ttk.mx:90/TV1000/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
@@ -95,10 +95,10 @@ http://193.242.190.6:8099/204/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
-http://194.26.229.213/TUDN_NashFutHD/index.m3u8?token=Panda
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
 http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
-http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+http://141.95.55.143/CH3839/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
 http://185.57.68.33/110/mpegts
