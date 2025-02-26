@@ -37,7 +37,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
-http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", DISCOVERY
 http://stream01.vnet.am/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="SW", HISTORY
@@ -78,7 +78,7 @@ http://185.50.148.2:7711/Kinohit/index.m3u8
 http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
-http://flu.ttk.mx:90/TV1000/mono.m3u8?token=hs06e
+http://93.189.224.246:52900/play/a00p/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
 http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
