@@ -84,7 +84,7 @@ http://185.50.148.2:7703/TV1000Action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://135.181.115.81:8000/play/a045/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
-http://130.193.73.10:8937/play/a03g
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDEzNzEzODAsImlhdCI6MTc0MTI4NDk4MCwiY2lkIjo2LCJ1aWQiOjg5ODk5MjQxMCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.DwTsnvkQR52jP29VfUTpJBk86wg8sOZB83p4hWTw0Zg&offset=3
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
 http://95.156.76.230:33001/udp/230.4.34.108:1234
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
@@ -95,9 +95,9 @@ http://193.242.190.6:8099/204/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
-http://s1.merlive.am/matchpremier/index.m3u8
+https://mhd128.iptv2022.com/p/hy1UjVv24diO42W4C9FOZA,1741381214/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+http://109.200.130.124:7005/play/a00h
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
 http://141.95.55.143/CH3839/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
