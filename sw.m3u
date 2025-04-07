@@ -92,7 +92,7 @@ http://5.166.64.254:81/udp/225.0.56.3:1234
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
 http://95.156.76.230:33001/udp/230.4.34.109:1234
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
-http://193.242.190.6:8099/204/index.m3u8
+http://5.166.64.254:81/udp/225.0.56.75:1234
 
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
