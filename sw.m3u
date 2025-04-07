@@ -18,7 +18,7 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="SW", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
-http://185.134.37.216:4022/udp/234.0.0.233:2000
+http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 group-title="SW", ПЯТНИЦА!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ
