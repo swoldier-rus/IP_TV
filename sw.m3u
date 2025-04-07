@@ -69,7 +69,7 @@ http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
 http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQwNjk1ODAsImlhdCI6MTc0Mzk4MzE4MCwiY2lkIjo2LCJ1aWQiOjkwNzI4OTYzMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.NQAuVfmMsb3_hxj5LjQXpMxAABz1kpvFmpb4TV-ML5M&offset=3
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
-http://178.212.71.253:8000/play/127/index.m3u8
+http://109.197.192.121:8080/kinosemya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
@@ -77,7 +77,7 @@ http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОХИТ
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-http://178.212.71.253:8000/play/126/index.m3u8
+http://178.163.5.162:4022/udp/234.0.0.213:2000
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://109.197.192.121:8080/tv1000/index.m3u8
