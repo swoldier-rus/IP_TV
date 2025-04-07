@@ -52,7 +52,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="SW", ДОМ КИНО
-http://109.200.130.123:7537/play/a02d
+http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="SW", КИНО ТВ
@@ -67,17 +67,17 @@ http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
 http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://178.124.179.122:8088/Kinopremiera/index.m3u8
+http://5.166.64.254:81/udp/225.0.56.58:1234
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
-http://109.200.130.123:7537/play/a021
+http://109.197.192.121:8080/kinouzhas/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОХИТ
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-http://195.26.83.96:7007/play/11/index.m3u8
+http://178.212.71.253:8000/play/126/index.m3u8
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://109.197.192.121:8080/tv1000/index.m3u8
