@@ -65,9 +65,9 @@ http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
 http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
-http://178.212.71.253:8000/play/70/index.m3u8
+http://109.197.192.121:8080/kinoplus/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://5.166.64.254:81/udp/225.0.56.58:1234
+http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQwNjk1ODAsImlhdCI6MTc0Mzk4MzE4MCwiY2lkIjo2LCJ1aWQiOjkwNzI4OTYzMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.NQAuVfmMsb3_hxj5LjQXpMxAABz1kpvFmpb4TV-ML5M&offset=3
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
