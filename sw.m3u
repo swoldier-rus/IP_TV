@@ -65,42 +65,42 @@ http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
 http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
-http://109.197.192.121:8080/kinoplus/index.m3u8
+http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQwNjk1ODAsImlhdCI6MTc0Mzk4MzE4MCwiY2lkIjo2LCJ1aWQiOjkwNzI4OTYzMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.NQAuVfmMsb3_hxj5LjQXpMxAABz1kpvFmpb4TV-ML5M&offset=3
+http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
-http://109.197.192.121:8080/kinosemya/index.m3u8
+http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
-http://109.197.192.121:8080/kinouzhas/index.m3u8
+http://109.200.130.123:7537/play/a021
 #EXTINF:-1 group-title="SW", КИНОХИТ
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-http://178.163.5.162:4022/udp/234.0.0.213:2000
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
-http://109.197.192.121:8080/tv1000/index.m3u8
+http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
-http://130.193.73.10:8937/play/a02t
+http://31.130.16.62:4022/udp/239.1.12.5:1234
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
 http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
-http://5.166.64.254:81/udp/225.0.56.3:1234
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQ2OTk1ODAsImlhdCI6MTc0NDYxMzE4MCwiY2lkIjo2LCJ1aWQiOjkwODg5MTkyMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.GZNfm2_rSUljIVm3T-ICOZ-fSMPuHkTYhPFdpGhTOtE&offset=3
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
-http://95.156.76.230:33001/udp/230.4.34.109:1234
+http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
-http://5.166.64.254:81/udp/225.0.56.75:1234
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQ2OTk1ODAsImlhdCI6MTc0NDYxMzE4MCwiY2lkIjo2LCJ1aWQiOjkwODg5MTkyMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.GZNfm2_rSUljIVm3T-ICOZ-fSMPuHkTYhPFdpGhTOtE&offset=3
 
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
 http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
-http://109.200.130.124:7005/play/a00h
+http://178.212.71.253:8000/play/58/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
-http://141.95.55.143/CH3839/index.m3u8
+http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
 http://185.57.68.33/110/mpegts
