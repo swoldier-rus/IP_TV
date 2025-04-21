@@ -39,7 +39,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
-http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
+https://river-1.rutube.ru/stream/genetta-317.m9.rutube.ru/9U_A1u3tk4xtphha1VWBoQ/1745738350/d73e70070a806f9baf6e662f6cc40665/1080p_stream.m3u8
 #EXTINF:-1 group-title="SW", DISCOVERY
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SW", HISTORY
@@ -50,9 +50,9 @@ http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-http://130.193.73.10:8937/play/a03i
+http://178.163.3.222:4022/udp/234.0.0.95:2000
 #EXTINF:-1 group-title="SW", ДОМ КИНО
-http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
+http://130.193.73.10:8937/play/a02v
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 group-title="SW", КИНО ТВ
@@ -67,32 +67,32 @@ http://178.212.71.253:8000/play/85/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
 http://178.212.71.253:8000/play/70/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
+http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
-http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQ2OTk1ODAsImlhdCI6MTc0NDYxMzE4MCwiY2lkIjo2LCJ1aWQiOjkwODg5MTkyMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.GZNfm2_rSUljIVm3T-ICOZ-fSMPuHkTYhPFdpGhTOtE&offset=3
+http://178.163.5.162:4022/udp/234.0.0.119:2000
 #EXTINF:-1 group-title="SW", КИНОУЖАС
-http://109.200.130.123:7537/play/a021
+http://178.163.5.162:4022/udp/234.0.0.114:2000
 #EXTINF:-1 group-title="SW", КИНОХИТ
-http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
+http://188.134.76.176:81/udp/235.10.10.181:1234
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
+http://178.163.3.222:4022/udp/234.0.0.213:2000
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
-http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
+http://178.49.166.164:1234/udp/239.1.1.70:1234
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
-http://31.130.16.62:4022/udp/239.1.12.5:1234
+http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
-http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
+http://188.134.76.176:81/udp/235.10.10.136:1234
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
-http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQ2OTk1ODAsImlhdCI6MTc0NDYxMzE4MCwiY2lkIjo2LCJ1aWQiOjkwODg5MTkyMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.GZNfm2_rSUljIVm3T-ICOZ-fSMPuHkTYhPFdpGhTOtE&offset=3
+http://5.166.64.254:81/udp/225.0.56.3:1234
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
-http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
+http://194.26.229.213:3080/channel/n6791d387/index.m3u8?q=963f66a62081211920e45aea3294bb9f
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDQ2OTk1ODAsImlhdCI6MTc0NDYxMzE4MCwiY2lkIjo2LCJ1aWQiOjkwODg5MTkyMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.GZNfm2_rSUljIVm3T-ICOZ-fSMPuHkTYhPFdpGhTOtE&offset=3
+http://188.134.76.176:81/udp/235.10.10.72:1234
 
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
