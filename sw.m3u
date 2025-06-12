@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/First-HD.png", tvg-id="pervy", ПЕРВЫЙ КАНАЛ
+#EXTINF:-1 group-title="SW", tvg-id="pervy", ПЕРВЫЙ КАНАЛ
 http://dmi3y-tv.ru/hls/T2/CH_1TV_4.m3u8
-#EXTINF:-1 group-title="SW", tvg-id="russia1" tvg-name="Россия-1" tvg-logo="http://loganet.ru/images/channels/Russia-1-HD.png", РОССИЯ 1
+#EXTINF:-1 group-title="SW", tvg-id="russia1" tvg-name="Россия-1", tvg-id="rossia1", РОССИЯ 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
 #EXTINF:-1 group-title="SW", КУБАНЬ 24
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
