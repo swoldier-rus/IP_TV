@@ -39,22 +39,22 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
-http://109.248.236.51/animal_planet_hd/mono.m3u8
+http://31.148.48.15/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="SW", DISCOVERY
-http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
+http://195.245.99.242/Discovery/playlist.m3u8
 #EXTINF:-1 group-title="SW", HISTORY
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+http://178.217.72.66:8080/Viasat_History/index.m3u8
 #EXTINF:-1 group-title="SW", NICKELODEON
-http://s1.merlive.am/Nickelodeon/index.m3u8
+http://195.245.99.242/Nickelodeon/playlist.m3u8
 #EXTINF:-1 group-title="SW", Че!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 
 #EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
-http://109.248.236.51/mosfilm/mono.m3u8
+http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="SW", ДОМ КИНО
 http://178.212.71.253:8000/play/99/index.m3u8
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
-http://s1.merlive.am/Komedia/index.m3u8
+http://5.3.176.223:81/udp/235.10.10.180:1234
 #EXTINF:-1 group-title="SW", КИНО ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
@@ -71,20 +71,20 @@ http://178.212.71.253:8000/play/125/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://178.212.71.253:8000/play/127/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
-http://109.248.236.51/kinoseria/mono.m3u8
+http://92.242.110.52:9835/udp/238.1.6.12:1234
 #EXTINF:-1 group-title="SW", КИНОУЖАС
 http://178.212.71.253:8000/play/133/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОХИТ
-http://109.248.236.51/kinohit/mono.m3u8
+http://92.242.110.52:9835/udp/238.1.6.14:1234
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
-http://109.248.236.51/muzhskoe_kino/mono.m3u8
+http://92.242.110.52:9835/udp/238.1.6.20:1234
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
-http://109.248.236.51/viju_tv1000/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/TV_1000/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
-http://109.248.236.51/viju_tv1000_action/tracks-v1a1/mono.m3u8
+http://178.134.1.158:8081/tv1000action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
-http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
+http://195.245.99.242/1000_rus/playlist.m3u8
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
 http://92.242.110.52:9835/udp/238.1.3.8:1234
 #EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
@@ -92,7 +92,7 @@ http://92.242.110.52:9835/udp/238.1.3.7:1234
 #EXTINF:-1 group-title="SW", VIJU+ COMEDY
 http://92.242.110.52:9835/udp/238.1.3.6:1234
 #EXTINF:-1 group-title="SW", VIJU+ SERIAL
-http://s7.merlive.am/vipserial/index.m3u8
+http://5.3.176.223:81/udp/235.10.10.72:1234
 
 #EXTINF:-1 group-title="SW", МАТЧ!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
@@ -103,4 +103,4 @@ http://178.212.71.253:8000/play/58/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
 http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
-http://185.57.68.33/110/mpegts
+http://92.242.110.52:9835/udp/238.1.1.16:1234
