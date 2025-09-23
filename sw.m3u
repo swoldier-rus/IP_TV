@@ -58,22 +58,22 @@ http://194.32.242.245/Komediya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНО ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
-http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
+http://193.33.88.172/kinopokaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", CINEMA
 http://catchup.videoline.ru/cinema/index.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
-http://178.212.71.253:8000/play/85/index.m3u8
+http://178.217.72.67:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОМИКС
-http://178.212.71.253:8000/play/70/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://178.212.71.253:8000/play/125/index.m3u8
+http://193.33.88.172/premiera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
-http://178.212.71.253:8000/play/127/index.m3u8
+http://46.8.46.14/kinosemya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
 http://178.217.72.67:8080/kinoseriya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОУЖАС
-http://178.212.71.253:8000/play/133/index.m3u8
+http://193.33.88.172/kinoujas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОХИТ
 http://194.32.242.245/kinohit/index.m3u8
 #EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
@@ -97,6 +97,8 @@ http://178.217.72.67:8080/vip_comedy/index.m3u8
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
 http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР 2
+http://193.33.88.172/nash-football/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
 http://178.212.71.253:8000/play/58/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
