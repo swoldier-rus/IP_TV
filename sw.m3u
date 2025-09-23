@@ -39,7 +39,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
-http://31.148.48.15/Animal_Planet_HD/index.m3u8
+http://178.217.72.67:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="SW", DISCOVERY
 http://178.217.72.67:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 group-title="SW", HISTORY
