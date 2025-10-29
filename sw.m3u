@@ -39,11 +39,11 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
-http://87.246.54.249:8085/AnimalPlanet/index.m3u8
+http://146.120.14.239:3001/play/a06z
 #EXTINF:-1 group-title="SW", DISCOVERY
 http://195.64.140.147:10151/151
 #EXTINF:-1 group-title="SW", HISTORY
-http://95.85.109.219:7000/play/a069
+http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="SW", NICKELODEON
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="SW", Че!
@@ -52,9 +52,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="SW", ДОМ КИНО
-http://192.162.64.99:5100/play/a01y/index.m3u8
+http://85.11.144.6:6060/play/a07v/index.m3u8
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
-http://192.162.64.99:5100/play/a02k/index.m3u8
+http://194.32.242.245/Komediya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНО ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
@@ -80,9 +80,9 @@ http://194.32.242.245/kinohit/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 
 #EXTINF:-1 group-title="SW", VIJU TV1000
-http://192.162.64.99:5100/play/a024/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
-http://192.162.64.99:5100/play/a025/index.m3u8
+http://178.134.1.158:8081/tv1000action/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
@@ -100,8 +100,8 @@ http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
 http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
-http://193.111.244.35:7474/matchfut1hd/index.m3u8
+http://193.25.8.59:8000/fut
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
-http://193.111.244.35:7474/matchfutbol2/index.m3u8
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
