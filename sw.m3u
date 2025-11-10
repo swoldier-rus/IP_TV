@@ -47,27 +47,27 @@ http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="SW", NICKELODEON
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="SW", Че!
-https://mhd128.iptv2022.com/p/MsJN62XskNcU4K7TfXXjog,1762808421/streaming/cheott/324/1/index.m3u8
+http://178.212.71.253:8000/play/139/index.m3u8
 
 #EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="SW", ДОМ КИНО
-http://85.11.144.6:6060/play/a07v/index.m3u8
+http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 group-title="SW", КОМЕДИЯ
 http://194.32.242.245/Komediya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНО ТВ
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+http://194.32.242.245/kinotv/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОПОКАЗ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="SW", CINEMA
-http://catchup.videoline.ru/cinema/index.m3u8
+http://217.25.80.16/Cinema/mono.m3u8
 
 #EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="SW", КИНОМИКС
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
-http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+http://95.85.109.219:7000/play/a085
 #EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
 http://46.8.46.14/kinosemya/index.m3u8
 #EXTINF:-1 group-title="SW", КИНОСЕРИЯ
@@ -82,7 +82,7 @@ http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="SW", VIJU TV1000
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
-http://178.134.1.158:8081/tv1000action/index.m3u8
+http://46.8.46.14/tv1000/index.m3u8
 #EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="SW", VIJU+ PREMIERE
