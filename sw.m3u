@@ -4,35 +4,35 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="SW", tvg-id="russia1" tvg-name="Россия-1", tvg-id="rossia1", РОССИЯ 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
 #EXTINF:-1 group-title="SW", КУБАНЬ 24
-https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/kFMvydVBglCOgHAypUCwbw/1763316429/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
 #EXTINF:-1 group-title="SW", КРАСНОДАР HD 
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="SW", 5 канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 group-title="SW", ТНТ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
 http://178.212.71.253:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="SW", СТС
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="SW", ПЯТНИЦА!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+http://93.170.254.17/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+http://95.66.188.74/RenTV/mono.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+http://195.158.223.132:8006/Rossiya_K
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ ЦЕНТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+http://93.170.254.17/TVCentr/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+http://93.170.254.17/Domashniy/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
 http://93.170.254.17/TV3/index.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+http://95.66.188.74/OTR/mono.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/World.png", МИР
@@ -47,7 +47,7 @@ http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
 #EXTINF:-1 group-title="SW", NICKELODEON
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="SW", Че!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+https://mhd128.iptv2022.com/p/MsJN62XskNcU4K7TfXXjog,1762808421/streaming/cheott/324/1/index.m3u8
 
 #EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://178.134.1.158:8081/mosfilm/index.m3u8
@@ -102,6 +102,6 @@ http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
 http://193.25.8.59:8000/fut
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
-http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
+http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
 #EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
