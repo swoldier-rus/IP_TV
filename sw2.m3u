@@ -1,0 +1,107 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="SW", tvg-id="pervy", ПЕРВЫЙ КАНАЛ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="SW", tvg-id="russia1" tvg-name="Россия-1", tvg-id="rossia1", РОССИЯ 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
+#EXTINF:-1 group-title="SW", КУБАНЬ 24
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="SW", КРАСНОДАР HD 
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
+http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="SW", 5 канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="SW", ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="SW", ТНТ4
+http://178.212.71.253:8000/play/106/index.m3u8
+#EXTINF:-1 group-title="SW", СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="SW", КВН ТВ
+http://158.101.222.193:88/georgia_play.php?id=kvntv
+#EXTINF:-1 group-title="SW", ПЯТНИЦА!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕНТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ ЦЕНТР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ3
+http://93.170.254.17/TV3/index.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="SW", tvg-logo="http://loganet.ru/images/channels/World.png", МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="SW", ANIMAL PLANET
+http://146.120.14.239:3001/play/a06z
+#EXTINF:-1 group-title="SW", DISCOVERY
+http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="SW", HISTORY
+http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
+#EXTINF:-1 group-title="SW", NICKELODEON
+http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="SW", Че!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+
+#EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+http://178.134.1.158:8081/mosfilm/index.m3u8
+#EXTINF:-1 group-title="SW", ДОМ КИНО
+http://85.11.144.6:6060/play/a07v/index.m3u8
+#EXTINF:-1 group-title="SW", КОМЕДИЯ
+http://194.32.242.245/Komediya/index.m3u8
+#EXTINF:-1 group-title="SW", КИНО ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SW", КИНОПОКАЗ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="SW", CINEMA
+http://catchup.videoline.ru/cinema/index.m3u8
+
+#EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="SW", КИНОМИКС
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+#EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
+http://46.8.46.14/kinosemya/index.m3u8
+#EXTINF:-1 group-title="SW", КИНОСЕРИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="SW", КИНОУЖАС
+http://178.163.2.151:4022/udp/234.0.0.114:2000
+#EXTINF:-1 group-title="SW", КИНОХИТ
+http://194.32.242.245/kinohit/index.m3u8
+#EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+
+#EXTINF:-1 group-title="SW", VIJU TV1000
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
+http://178.134.1.158:8081/tv1000action/index.m3u8
+#EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="SW", VIJU+ PREMIERE
+http://194.32.242.245/vippremiere/index.m3u8
+#EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
+http://194.32.242.245/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="SW", VIJU+ COMEDY
+http://46.8.46.14/vipcomedy/index.m3u8
+
+
+#EXTINF:-1 group-title="SW", МАТЧ!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
+http://46.8.46.14/premier/index.m3u8
+#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
+#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
