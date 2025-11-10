@@ -1,1 +1,16 @@
+#EXTINF:-1 group-title="SW", КИНО ТВ
+http://188.134.7.215:4022/udp/235.10.10.71:1234
+#EXTINF:-1 group-title="SW", КИНО ТВ1
+http://77.106.252.178:4022/udp/233.33.210.103:5050
+#EXTINF:-1 group-title="SW", КИНО ТВ1
+http://217.25.80.16/Kino_TV/mono.m3u8
+#EXTINF:-1 group-title="SW", КИНО ТВ1
+http://194.32.242.245/kinotv/index.m3u8
+#EXTINF:-1 group-title="SW", КИНО ТВ1
+http://178.163.2.151:4022/udp/234.0.0.154:2000
+#EXTINF:-1 group-title="SW", КИНО ТВ1
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 group-title="SW", КИНО ТВ1
+http://31.148.48.15/Kino_TV/index.m3u8
+
 
