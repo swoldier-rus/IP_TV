@@ -60,7 +60,7 @@ http://194.32.242.245/kinotv/index.m3u8
 #EXTINF:-1 group-title="SW", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="SW", Cinema
-http://178.217.72.72/cinema/index.m3u8
+http://87.76.32.36:8001/sinema
 
 #EXTINF:-1 group-title="SW", Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
