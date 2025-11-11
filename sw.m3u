@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Мультиплекс", ПЕРВЫЙ КАНАЛ
+#EXTINF:-1 group-title="Мультиплекс", Первый канал
 http://95.66.188.74/PerviyKanal/mono.m3u8
-#EXTINF:-1 group-title="Мультиплекс", РОССИЯ 1
+#EXTINF:-1 group-title="Мультиплекс", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
-#EXTINF:-1 group-title="SW", КУБАНЬ 24
+#EXTINF:-1 group-title="SW", Кубань 24
 http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/kFMvydVBglCOgHAypUCwbw/1763316429/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
-#EXTINF:-1 group-title="SW", КРАСНОДАР HD 
+#EXTINF:-1 group-title="SW", Краснодар HD
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Мультиплекс", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
@@ -19,89 +19,88 @@ http://178.212.71.253:8000/play/106/index.m3u8
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
-#EXTINF:-1 group-title="Мультиплекс", ПЯТНИЦА!
+#EXTINF:-1 group-title="Мультиплекс", Пятница!
 http://93.170.254.17/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс", РЕН-ТВ
+#EXTINF:-1 group-title="Мультиплекс", РЕН ТВ
 http://95.66.188.74/RenTV/mono.m3u8
-#EXTINF:-1 group-title="Мультиплекс", РОССИЯ К
+#EXTINF:-1 group-title="Мультиплекс", Россия К
 http://195.158.223.132:8006/Rossiya_K
-#EXTINF:-1 group-title="Мультиплекс", ТВ ЦЕНТР
+#EXTINF:-1 group-title="Мультиплекс", ТВ Центр
 http://93.170.254.17/TVCentr/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс", ДОМАШНИЙ
+#EXTINF:-1 group-title="Мультиплекс", Домашний
 http://93.170.254.17/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", ТВ-3
 http://93.170.254.17/TV3/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", ОТР
 http://95.66.188.74/OTR/mono.m3u8
-#EXTINF:-1 group-title="Мультиплекс", ЗВЕЗДА
+#EXTINF:-1 group-title="Мультиплекс", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Мультиплекс", МИР
+#EXTINF:-1 group-title="Мультиплекс", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="SW", ANIMAL PLANET
+#EXTINF:-1 group-title="SW", Animal Planet
 http://146.120.14.239:3001/play/a06z
-#EXTINF:-1 group-title="SW", DISCOVERY
+#EXTINF:-1 group-title="SW", Discovery Channel
 http://195.64.140.147:10151/151
-#EXTINF:-1 group-title="SW", HISTORY
+#EXTINF:-1 group-title="SW", History Channel
 http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
-#EXTINF:-1 group-title="SW", NICKELODEON
+#EXTINF:-1 group-title="SW", Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="SW", Че!
 http://178.212.71.253:8000/play/139/index.m3u8
 
-#EXTINF:-1 group-title="SW", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTINF:-1 group-title="SW", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
-#EXTINF:-1 group-title="SW", ДОМ КИНО
+#EXTINF:-1 group-title="SW", Дом Кино
 http://95.66.188.74/DomKinoPremiumHD/index.m3u8
-#EXTINF:-1 group-title="SW", КОМЕДИЯ
+#EXTINF:-1 group-title="SW", Комедия
 http://194.32.242.245/Komediya/index.m3u8
-#EXTINF:-1 group-title="SW", КИНО ТВ
+#EXTINF:-1 group-title="SW", Кино ТВ
 http://194.32.242.245/kinotv/index.m3u8
-#EXTINF:-1 group-title="SW", КИНОПОКАЗ
+#EXTINF:-1 group-title="SW", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="SW", CINEMA
+#EXTINF:-1 group-title="SW", Cinema
 http://217.25.80.16/Cinema/mono.m3u8
 
-#EXTINF:-1 group-title="SW", КИНОКОМЕДИЯ
+#EXTINF:-1 group-title="SW", Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
-#EXTINF:-1 group-title="SW", КИНОМИКС
+#EXTINF:-1 group-title="SW", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
-#EXTINF:-1 group-title="SW", КИНОПРЕМЬЕРА
+#EXTINF:-1 group-title="SW", Кинопремьера
 http://95.85.109.219:7000/play/a085
-#EXTINF:-1 group-title="SW", КИНОСЕМЬЯ
+#EXTINF:-1 group-title="SW", Киносемья
 http://46.8.46.14/kinosemya/index.m3u8
-#EXTINF:-1 group-title="SW", КИНОСЕРИЯ
+#EXTINF:-1 group-title="SW", Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
-#EXTINF:-1 group-title="SW", КИНОУЖАС
+#EXTINF:-1 group-title="SW", Киноужас
 http://178.163.2.151:4022/udp/234.0.0.114:2000
-#EXTINF:-1 group-title="SW", КИНОХИТ
+#EXTINF:-1 group-title="SW", Кинохит
 http://194.32.242.245/kinohit/index.m3u8
-#EXTINF:-1 group-title="SW", МУЖСКОЕ КИНО
+#EXTINF:-1 group-title="SW", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 
-#EXTINF:-1 group-title="SW", VIJU TV1000
+#EXTINF:-1 group-title="SW", Viju TV1000
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="SW", VIJU TV1000 ACTION
+#EXTINF:-1 group-title="SW", Viju TV1000 Action
 http://46.8.46.14/tv1000/index.m3u8
-#EXTINF:-1 group-title="SW", VIJU TV1000 РУССКОЕ КИНО
+#EXTINF:-1 group-title="SW", Viju TV1000 Русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="SW", VIJU+ PREMIERE
+#EXTINF:-1 group-title="SW", Viju+ Premiere
 http://194.32.242.245/vippremiere/index.m3u8
-#EXTINF:-1 group-title="SW", VIJU+ MEGAHIT
+#EXTINF:-1 group-title="SW", Viju+ Megahit
 http://194.32.242.245/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="SW", VIJU+ COMEDY
+#EXTINF:-1 group-title="SW", Viju+ Comedy
 http://46.8.46.14/vipcomedy/index.m3u8
 
-
-#EXTINF:-1 group-title="SW", МАТЧ!
+#EXTINF:-1 group-title="SW", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
+#EXTINF:-1 group-title="SW", Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! ПРЕМЬЕР
+#EXTINF:-1 group-title="SW", Матч! Премьер
 http://46.8.46.14/premier/index.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 1
+#EXTINF:-1 group-title="SW", Матч! Футбол 1
 http://193.25.8.59:8000/fut
-#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 2
+#EXTINF:-1 group-title="SW", Матч! Футбол 2
 http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
-#EXTINF:-1 group-title="SW", МАТЧ! ФУТБОЛ 3
+#EXTINF:-1 group-title="SW", Матч! Футбол 3
 http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
