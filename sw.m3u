@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Мультиплекс", tvg-id="pervy", ПЕРВЫЙ КАНАЛ
+#EXTINF:-1 group-title="Мультиплекс", ПЕРВЫЙ КАНАЛ
 http://95.66.188.74/PerviyKanal/mono.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-id="russia1" tvg-name="Россия-1", tvg-id="rossia1", РОССИЯ 1
+#EXTINF:-1 group-title="Мультиплекс", РОССИЯ 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
 #EXTINF:-1 group-title="SW", КУБАНЬ 24
 http://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/kFMvydVBglCOgHAypUCwbw/1763316429/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
 #EXTINF:-1 group-title="SW", КРАСНОДАР HD 
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/NTV.png", НТВ
+#EXTINF:-1 group-title="Мультиплекс", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Мультиплекс", Пятый канал
 http://95.66.188.74/5kanal/mono.m3u8
@@ -21,21 +21,21 @@ http://94.230.128.107:8080/CTC/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Мультиплекс", ПЯТНИЦА!
 http://93.170.254.17/Pyatnica/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/Ren-TV.png", РЕН-ТВ
+#EXTINF:-1 group-title="Мультиплекс", РЕН-ТВ
 http://95.66.188.74/RenTV/mono.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/Russia-K.png", РОССИЯ К
+#EXTINF:-1 group-title="Мультиплекс", РОССИЯ К
 http://195.158.223.132:8006/Rossiya_K
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/TV-Centre.png", ТВ ЦЕНТР
+#EXTINF:-1 group-title="Мультиплекс", ТВ ЦЕНТР
 http://93.170.254.17/TVCentr/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/Domestic.png", ДОМАШНИЙ
+#EXTINF:-1 group-title="Мультиплекс", ДОМАШНИЙ
 http://93.170.254.17/Domashniy/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/TV-3.png", ТВ-3
+#EXTINF:-1 group-title="Мультиплекс", ТВ-3
 http://93.170.254.17/TV3/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/OTR.png", ОТР
+#EXTINF:-1 group-title="Мультиплекс", ОТР
 http://95.66.188.74/OTR/mono.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/Star.png", ЗВЕЗДА
+#EXTINF:-1 group-title="Мультиплекс", ЗВЕЗДА
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Мультиплекс", tvg-logo="http://loganet.ru/images/channels/World.png", МИР
+#EXTINF:-1 group-title="Мультиплекс", МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", ANIMAL PLANET
