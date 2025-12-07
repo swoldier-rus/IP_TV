@@ -47,7 +47,7 @@ http://50.7.28.226/8356/index.m3u8
 #EXTINF:-1 group-title="SW", Nickelodeon
 https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", Че!
-http://195.26.83.96:7009/play/89/index.m3u8
+http://95.66.188.74/Che/mono.m3u8
 
 #EXTINF:-1 group-title="SW", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
@@ -69,18 +69,18 @@ http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="SW", Кинопремьера
 http://146.120.14.239:3001/play/a0ds
 #EXTINF:-1 group-title="SW", Киносемья
-http://46.8.46.14/kinosemya/index.m3u8
+http://146.120.14.239:3001/play/a082
 #EXTINF:-1 group-title="SW", Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="SW", Киноужас
 http://178.163.2.151:4022/udp/234.0.0.114:2000
 #EXTINF:-1 group-title="SW", Кинохит
-http://194.32.242.245/kinohit/index.m3u8
+http://31.47.199.45:1403/kinoxit/index.m3u8
 #EXTINF:-1 group-title="SW", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 
 #EXTINF:-1 group-title="SW", Viju TV1000
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+http://193.25.8.59:8000/TV1000
 #EXTINF:-1 group-title="SW", Viju TV1000 Action
 http://2.57.217.85:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="SW", Viju TV1000 Русское кино
