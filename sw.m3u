@@ -4,7 +4,7 @@ http://95.66.188.74/PerviyKanal/mono.m3u8
 #EXTINF:-1 group-title="Мультиплекс", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
 #EXTINF:-1 group-title="SW", Кубань 24
-http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/FWVdS8vxxSzBDEGqAnOHGQ/1764038856/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/HbFThJXGm9Vr7xJ0JMKXSw/1765558945/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
 #EXTINF:-1 group-title="SW", Краснодар HD
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Мультиплекс", НТВ
@@ -14,11 +14,11 @@ http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 group-title="Мультиплекс", ТНТ
 https://streaming.goodstream.cyou/live/38.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
-http://178.212.71.253:8000/play/106/index.m3u8
+http://77.106.252.178:4022/udp/233.33.220.164:5050
 #EXTINF:-1 group-title="Мультиплекс", СТС
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
-http://178.212.71.253:8000/play/119/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Мультиплекс", Пятница!
 http://93.170.254.17/Pyatnica/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", РЕН ТВ
@@ -39,35 +39,35 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="SW", Animal Planet
-http://94.232.127.28:8080/animalplanethd/index.m3u8
+http://146.120.14.239:3001/play/a06z
 #EXTINF:-1 group-title="SW", Discovery
-http://94.232.127.28:8080/discovery-east/index.m3u8
+http://146.120.14.239:3001/play/a06y
 #EXTINF:-1 group-title="SW", History
-http://188.190.222.53/Viasat_History/index.m3u8
+http://50.7.28.226/8356/index.m3u8
 #EXTINF:-1 group-title="SW", Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
+https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", Че!
-http://188.190.222.53/Che/index.m3u8
+http://195.26.83.96:7009/play/89/index.m3u8
 
 #EXTINF:-1 group-title="SW", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
 #EXTINF:-1 group-title="SW", Дом Кино
-http://95.66.188.74/DomKinoPremiumHD/index.m3u8
+http://195.158.223.132:8008/Dom_Kino
 #EXTINF:-1 group-title="SW", Комедия
-http://194.32.242.245/Komediya/index.m3u8
+http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 group-title="SW", Кино ТВ
-http://194.32.242.245/kinotv/index.m3u8
+http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="SW", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="SW", Cinema
-http://95.66.188.74/Cinema/index.m3u8
+http://185.46.16.239:8000/Cinema
 
 #EXTINF:-1 group-title="SW", Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="SW", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="SW", Кинопремьера
-http://178.212.71.253:8000/play/125/index.m3u8
+http://146.120.14.239:3001/play/a0ds
 #EXTINF:-1 group-title="SW", Киносемья
 http://46.8.46.14/kinosemya/index.m3u8
 #EXTINF:-1 group-title="SW", Киносерия
@@ -82,18 +82,18 @@ http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="SW", Viju TV1000
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="SW", Viju TV1000 Action
-http://46.8.46.14/tv1000/index.m3u8
+http://2.57.217.85:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="SW", Viju TV1000 Русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="SW", Viju+ Premiere
-http://194.32.242.245/vippremiere/index.m3u8
+http://50.7.28.226/8119/index.m3u8
 #EXTINF:-1 group-title="SW", Viju+ Megahit
 http://194.32.242.245/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="SW", Viju+ Comedy
-http://46.8.46.14/vipcomedy/index.m3u8
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="SW", Матч!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+http://50.7.28.226/8016/index.m3u8
 #EXTINF:-1 group-title="SW", Матч! Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="SW", Матч! Премьер
