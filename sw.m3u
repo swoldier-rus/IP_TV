@@ -4,7 +4,7 @@ http://95.66.188.74/PerviyKanal/mono.m3u8
 #EXTINF:-1 group-title="Мультиплекс", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
 #EXTINF:-1 group-title="SW", Кубань 24
-http://river-1.rutube.ru/stream/genetta-311.m9.rutube.ru/HbFThJXGm9Vr7xJ0JMKXSw/1765558945/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
+http://river-1.rutube.ru/stream/genetta-324.m9.rutube.ru/Wn20O-6pHmcnqTRoKOWn-Q/1765902614/cb2f1d99b88c9b4d38df05cd7fa0a6c2/720p_stream.m3u8
 #EXTINF:-1 group-title="SW", Краснодар HD
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Мультиплекс", НТВ
@@ -43,7 +43,7 @@ http://146.120.14.239:3001/play/a06z
 #EXTINF:-1 group-title="SW", Discovery
 http://146.120.14.239:3001/play/a06y
 #EXTINF:-1 group-title="SW", History
-http://50.7.28.226/8356/index.m3u8
+http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="SW", Nickelodeon
 https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SW", Че!
@@ -86,21 +86,21 @@ http://2.57.217.85:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="SW", Viju TV1000 Русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="SW", Viju+ Premiere
-http://50.7.28.226/8119/index.m3u8
+https://stream2.somon.tv/vippremiera/index.m3u8
 #EXTINF:-1 group-title="SW", Viju+ Megahit
-http://194.32.242.245/vipmegahit/index.m3u8
+http://2.57.217.85:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="SW", Viju+ Comedy
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="SW", Матч!
-http://50.7.28.226/8016/index.m3u8
+http://178.163.2.144:4022/udp/234.0.0.204:2000
 #EXTINF:-1 group-title="SW", Матч! Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="SW", Матч! Премьер
 http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="SW", Матч! Футбол 1
-http://50.7.28.226/8022/index.m3u8
+http://178.212.71.253:8000/play/58/index.m3u8
 #EXTINF:-1 group-title="SW", Матч! Футбол 2
 http://50.7.28.226/8022/index.m3u8
 #EXTINF:-1 group-title="SW", Матч! Футбол 3
-http://193.25.8.59:8000/fut3
+http://185.57.68.33/110/mpegts
