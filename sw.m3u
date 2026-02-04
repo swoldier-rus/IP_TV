@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Мультиплекс", Первый канал
-http://95.66.188.74/PerviyKanal/mono.m3u8
+http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Мультиплекс", Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnodar/russia1-sd/2081200_576p.m3u8
 #EXTINF:-1 group-title="SW", Кубань 24
@@ -10,9 +10,9 @@ http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Мультиплекс", НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Мультиплекс", Пятый канал
-http://95.66.188.74/5kanal/mono.m3u8
+http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", ТНТ
-https://streaming.goodstream.cyou/live/38.m3u8
+http://178.134.1.158:8081/tnt/index.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
 http://77.106.252.178:4022/udp/233.33.220.164:5050
 #EXTINF:-1 group-title="Мультиплекс", СТС
@@ -20,19 +20,19 @@ http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
 http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Мультиплекс", Пятница!
-http://93.170.254.17/Pyatnica/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Мультиплекс", РЕН ТВ
-http://95.66.188.74/RenTV/mono.m3u8
+http://185.46.16.239:8000/REN_TV
 #EXTINF:-1 group-title="Мультиплекс", Россия К
-http://195.158.223.132:8006/Rossiya_K
+http://95.47.156.60:8000/play/6/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", ТВ Центр
-http://93.170.254.17/TVCentr/index.m3u8
+http://185.71.81.6:8080/10/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", Домашний
-http://93.170.254.17/Domashniy/index.m3u8
+http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", ТВ-3
-http://93.170.254.17/TV3/index.m3u8
+http://176.96.241.40/Tv3/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", ОТР
-http://95.66.188.74/OTR/mono.m3u8
+http://178.163.2.144:4022/udp/234.0.0.208:2000
 #EXTINF:-1 group-title="Мультиплекс", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Мультиплекс", Мир
