@@ -47,7 +47,7 @@ http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:-1 group-title="SW", Nickelodeon
 http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
 #EXTINF:-1 group-title="SW", Че!
-http://5.188.221.43:8080/play/che
+http://31.148.48.15/Che/index.m3u8
 
 #EXTINF:-1 group-title="SW", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
