@@ -50,11 +50,11 @@ http://188.225.31.197/bpk-tv/000004365/tve/index.m3u8
 http://31.148.48.15/Che/index.m3u8
 
 #EXTINF:-1 group-title="SW", Мосфильм. Золотая коллекция
-http://178.134.1.158:8081/mosfilm/index.m3u8
+http://46.53.208.4/live/1124-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="SW", Дом Кино
 http://176.96.241.40/DomKino/index.m3u8
 #EXTINF:-1 group-title="SW", Комедия
-http://194.32.242.245/Komediya/index.m3u8
+http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 group-title="SW", Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="SW", Кинопоказ
@@ -73,16 +73,16 @@ http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="SW", Киносерия
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="SW", Киноужас
-http://194.32.242.245/kinouzhas/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
 #EXTINF:-1 group-title="SW", Кинохит
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 group-title="SW", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 
 #EXTINF:-1 group-title="SW", Viju TV1000
-http://194.32.242.245/tv1000/index.m3u8
+http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
 #EXTINF:-1 group-title="SW", Viju TV1000 Action
-http://194.32.242.245/tv1000action/index.m3u8
+http://217.11.177.56/streams/media/tv1000-action_720x576/index.m3u8
 #EXTINF:-1 group-title="SW", Viju TV1000 Русское кино
 http://193.25.8.59:8000/TV1000RU
 #EXTINF:-1 group-title="SW", Viju+ Premiere
@@ -95,10 +95,10 @@ http://185.46.16.239:8000/VIP_Comedy
 #EXTINF:-1 group-title="SW", Матч!
 http://185.46.16.239:8000/Match_TV
 #EXTINF:-1 group-title="SW", Матч! Премьер
-http://85.88.175.48:2020/udp/239.4.10.83:2020
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="SW", Матч! Футбол 1
 http://193.25.8.59:8000/fut
 #EXTINF:-1 group-title="SW", Матч! Футбол 2
 http://188.191.160.238:7780/udp/239.195.3.17:1234
 #EXTINF:-1 group-title="SW", Матч! Футбол 3
-http://193.25.8.59:8000/fut3
+http://185.57.68.33/110/index.m3u8
