@@ -14,7 +14,7 @@ http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 group-title="Мультиплекс", ТНТ
 http://178.134.1.158:8081/tnt/index.m3u8
 #EXTINF:-1 group-title="SW", ТНТ4
-http://31.148.48.15/TNT4/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTINF:-1 group-title="Мультиплекс", СТС
 http://94.230.128.107:8080/CTC/index.m3u8
 #EXTINF:-1 group-title="SW", КВН ТВ
