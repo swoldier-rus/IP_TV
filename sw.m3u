@@ -1,104 +1,114 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Мультиплекс", Первый канал
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Мультиплекс",Первый канал
 http://5.188.221.43:8080/play/ort
-#EXTINF:-1 group-title="Мультиплекс",Россия 1
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Мультиплекс",Россия 1
 http://185.46.16.239:8000/Rossiya_1
-#EXTINF:-1 group-title="SW", Кубань 24
+#EXTINF:-1 tvg-id="kuban-24" tvg-logo="https://iptvx.one/picons/kuban-24.png" group-title="SW",Кубань 24
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 group-title="SW", Краснодар HD
+#EXTINF:-1 tvg-id="krasnodar" tvg-logo="https://iptvx.one/picons/krasnodar.png" group-title="SW",Краснодар HD
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Мультиплекс", НТВ
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Мультиплекс",НТВ
 http://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Мультиплекс", Пятый канал
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Мультиплекс",Пятый канал
 http://178.134.1.158:8081/5channel/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс", ТНТ
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Мультиплекс",ТНТ
 http://194.152.35.17/tnt/index.m3u8
-#EXTINF:-1 group-title="SW", ТНТ4
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="SW",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Мультиплекс", СТС
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://iptvx.one/picons/sts.png" group-title="Мультиплекс",СТС
 http://194.152.35.17/sts/index.m3u8
-#EXTINF:-1 group-title="SW", КВН ТВ
+#EXTINF:-1 tvg-id="kvn-tv" tvg-logo="https://iptvx.one/picons/kvn-tv.png" group-title="SW",КВН ТВ
 http://radio.tvs.by:8080/KVN-TV/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс", Пятница!
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Мультиплекс",Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Мультиплекс", РЕН ТВ
+#EXTINF:-1 tvg-id="rentv" tvg-logo="https://iptvx.one/picons/rentv.png" group-title="Мультиплекс",РЕН ТВ
 http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 group-title="Мультиплекс",Россия К
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Мультиплекс",Россия К
 http://185.46.16.239:8000/Rossiya_K
-#EXTINF:-1 group-title="Мультиплекс", ТВ Центр
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Мультиплекс",ТВ Центр
 http://185.71.81.6:8080/10/index.m3u8
-#EXTINF:-1 group-title="Мультиплекс",Домашний
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://iptvx.one/picons/domashny.png" group-title="Мультиплекс",Домашний
 http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 group-title="Мультиплекс", ТВ-3
+#EXTINF:-1 tvg-id="tv3-ru" tvg-logo="https://iptvx.one/picons/tv3-ru.png" group-title="Мультиплекс",ТВ-3
 http://185.46.16.239:8000/TV3
-#EXTINF:-1 group-title="Мультиплекс",ОТР
+#EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Мультиплекс",ОТР
 http://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
-#EXTINF:-1 group-title="Мультиплекс", Звезда
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Мультиплекс",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Мультиплекс", Мир
+#EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Мультиплекс",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="SW", Animal Planet
+
+
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="SW",Animal Planet
 http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 group-title="SW", Discovery
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://iptvx.one/picons/discovery-channel.png" group-title="SW",Discovery
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="SW",History
+#EXTINF:-1 tvg-id="history" tvg-logo="https://iptvx.one/picons/history.png" group-title="SW",History
 http://radio.tvs.by:8088/HistoryHD/index.m3u8
-#EXTINF:-1 group-title="SW", Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon-ru" tvg-logo="https://iptvx.one/picons/nickelodeon-ru.png" group-title="SW",Nickelodeon
 http://89.33.29.115:8080/Nickelodeon/index.m3u8
-#EXTINF:-1 group-title="SW", Че!
+#EXTINF:-1 tvg-id="che" tvg-logo="https://iptvx.one/picons/che.png" group-title="SW",Че!
 http://89.33.29.115:8080/Che/index.m3u8
 
-#EXTINF:-1 group-title="SW", Мосфильм. Золотая коллекция
+
+
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="SW",Мосфильм. Золотая коллекция
 http://185.121.1.163:8083/Mosfilm/index.m3u8
-#EXTINF:-1 group-title="SW", Дом Кино
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="SW",Дом Кино
 http://176.118.197.101/Dom_kino/mono.m3u8
-#EXTINF:-1 group-title="SW", Комедия
+#EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="SW",Комедия
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 group-title="SW", Кино ТВ
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="SW",Кино ТВ
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="SW", Кинопоказ
+#EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="SW",Кинопоказ
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="SW", Cinema
+#EXTINF:-1 tvg-id="cinema-ru" tvg-logo="https://iptvx.one/picons/cinema-ru.png" group-title="SW",Cinema
 http://185.46.16.239:8000/Cinema
 
-#EXTINF:-1 group-title="SW", Кинокомедия
+
+
+#EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://iptvx.one/picons/kinokomedia.png" group-title="SW",Кинокомедия
 http://176.118.197.101/Kinokomediya/mono.m3u8
-#EXTINF:-1 group-title="SW", Киномикс
+#EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://iptvx.one/picons/kinomiks.png" group-title="SW",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="SW", Кинопремьера
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" group-title="SW",Кинопремьера
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
-#EXTINF:-1 group-title="SW", Киносемья
+#EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://iptvx.one/picons/kinosemia.png" group-title="SW",Киносемья
 http://185.121.1.163:8083/Kinosemya/index.m3u8
-#EXTINF:-1 group-title="SW", Киносерия
+#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://iptvx.one/picons/kinoseria.png" group-title="SW",Киносерия
 https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="SW", Киноужас
+#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="SW",Киноужас
 https://fs.uplink.kz/kinouzhas/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="SW",КиноХит
+#EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="SW",КиноХит
 http://89.33.29.115:8080/Kinohit/index.m3u8
-#EXTINF:-1 group-title="SW", Мужское кино
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://iptvx.one/picons/muzhskoe-kino.png" group-title="SW",Мужское кино
 http://185.121.1.163:8083/MuzhskoeKino/index.m3u8
 
-#EXTINF:-1 group-title="SW", Viju TV1000
+
+
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="SW",Viju TV1000
 http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
-#EXTINF:-1 group-title="SW", Viju TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="SW",Viju TV1000 Action
 http://217.11.177.56/streams/media/tv1000-action_720x576/index.m3u8
-#EXTINF:-1 group-title="SW", Viju TV1000 Русское кино
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="SW",Viju TV1000 Русское кино
 http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
-#EXTINF:-1 group-title="SW", Viju+ Premiere
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="SW",Viju+ Premiere
 http://185.46.16.239:8000/VIP_Premiere
-#EXTINF:-1 group-title="SW",Viju+ Megahit
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="SW",Viju+ Megahit
 http://46.8.46.14/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="SW", Viju+ Comedy
+#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="SW",Viju+ Comedy
 http://185.46.16.239:8000/VIP_Comedy
 
-#EXTINF:-1 group-title="SW", Матч!
+
+
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="SW",Матч!
 http://185.46.16.239:8000/Match_TV
-#EXTINF:-1 group-title="SW", Матч! Премьер
+#EXTINF:-1 tvg-id="match-premier" tvg-logo="https://iptvx.one/picons/match-premiere.png" group-title="SW",Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
-#EXTINF:-1 group-title="SW", Матч! Футбол 1
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://iptvx.one/picons/match-football1.png" group-title="SW",Матч! Футбол 1
 http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10015/index.m3u8
-#EXTINF:-1 group-title="SW", Матч! Футбол 2
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://iptvx.one/picons/match-football2.png" group-title="SW",Матч! Футбол 2
 http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10027/index.m3u8
-#EXTINF:-1 group-title="SW",Матч! Футбол 3
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://iptvx.one/picons/match-football3.png" group-title="SW",Матч! Футбол 3
 http://176.100.46.245:90/matchfootball3/index.m3u8
