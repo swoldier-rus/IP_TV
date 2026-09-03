@@ -96,7 +96,7 @@ http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" group-title="SW",Viju+ Premiere
 http://185.46.16.239:8000/VIP_Premiere
 #EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" group-title="SW",Viju+ Megahit
-http://5.9.11.197:57419/chu-105/mpegts
+http://185.46.16.239:8000/VIP_Megahit
 #EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://iptvx.one/picons/vip-comedy.png" group-title="SW",Viju+ Comedy
 http://185.46.16.239:8000/VIP_Comedy
 
