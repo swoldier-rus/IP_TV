@@ -1,6 +1,6 @@
-naive+https://admin:hGGNV6NpFMzKVaRs@spacearea.onthewifi.com:443
-mierus://admin:hGGNV6NpFMzKVaRs@167.17.179.175?profile=default&port=2012&protocol=TCP&multiplexing=MULTIPLEXING_HIGH
-hysteria2://admin:hGGNV6NpFMzKVaRs@spacearea.onthewifi.com:443?sni=spacearea.onthewifi.com&insecure=0#admin
+naive+https://SW_COSMOS:sYcUMf7G9g67Zuho@spacearea.onthewifi.com:443
+mierus://SW_COSMOS:sYcUMf7G9g67Zuho@167.17.179.175?profile=default&port=2012&protocol=TCP&multiplexing=MULTIPLEXING_HIGH
+hysteria2://SW_COSMOS:sYcUMf7G9g67Zuho@spacearea.onthewifi.com:443?sni=spacearea.onthewifi.com&insecure=0#SW_COSMOS
 
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gembeforeshoping.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gembeforeshoping.space&fp=firefox&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&type=tcp&headerType=none#0035%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20VLESS%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@49930ag.es8.h1clayd.click:443?encryption=none&security=reality&sni=49930ag.es8.h1clayd.click&fp=chrome&pbk=H_sPS4IJjHa4Wd7WLAtp_eamROtKBAj-G0UcMBHLHQw&sid=2437eeeb791b6d80&spx=%2F&type=grpc&authority=&serviceName=61c20be08f4f&mode=gun#0103%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20VLESS%20%7C%20TG%3A%20%40YoutubeUnBlockRu
