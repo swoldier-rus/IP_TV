@@ -1,3 +1,7 @@
+naive+https://SW_COSMOS:sYcUMf7G9g67Zuho@spacearea.onthewifi.com:443
+mierus://SW_COSMOS:sYcUMf7G9g67Zuho@167.17.179.175?profile=default&port=2012&protocol=TCP&multiplexing=MULTIPLEXING_HIGH
+hysteria2://SW_COSMOS:sYcUMf7G9g67Zuho@spacearea.onthewifi.com:443?sni=spacearea.onthewifi.com&insecure=0#SW_COSMOS
+
 vless://a5a8ffd9-17b9-000b-840d-bb69289f94fc@138.124.254.181:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9&sni=lywd3zccl0w7a4ih.customer.velacdn.com#0168 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
 vless://525d0868-cf3e-432f-9947-f9cecbb184a3@srv20.frdomvp.xyz:443?type=tcp&security=reality&fp=firefox&pbk=iE-UlBhAnt3054RCpNXTZ35qkea_X8r_-2dsvcUb0iw&sid=c0bf65244f91c60f&sni=srv20.frdomvp.xyz#0271 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
 vless://525d0868-cf3e-432f-9947-f9cecbb184a3@gazon.schawell.com:443?type=tcp&security=reality&fp=firefox&pbk=sdEEQBW9k_7yW1B7jdANqAhECqpuLzgVZSB0jqjiRD4&sid=1e1818d36ee209eb&sni=gazon.schawell.com#0157 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
