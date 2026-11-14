@@ -1,0 +1,3 @@
+mierus://SW_COSMOS:sYcUMf7G9g67Zuho@167.17.179.175?profile=default&port=2012&protocol=TCP&multiplexing=MULTIPLEXING_HIGH
+hysteria2://SW_COSMOS:sYcUMf7G9g67Zuho@spacearea.onthewifi.com:443?sni=spacearea.onthewifi.com&insecure=0#SW_COSMOS
+naive+https://SW_COSMOS:sYcUMf7G9g67Zuho@spacearea.onthewifi.com:443
