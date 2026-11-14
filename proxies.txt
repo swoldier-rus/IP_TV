@@ -1,13 +1,13 @@
 naive+https://SW_COSMOS:sYcUMf7G9g67Zuho@spacearea.onthewifi.com:443
 hysteria2://SW_COSMOS:sYcUMf7G9g67Zuho@spacearea.onthewifi.com:443?sni=spacearea.onthewifi.com&insecure=0#SW_COSMOS
 mierus://SW_COSMOS:sYcUMf7G9g67Zuho@167.17.179.175?profile=default&port=2012&protocol=TCP&multiplexing=MULTIPLEXING_HIGH
+vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@159.194.210.102:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=box.vpvi.store#0150 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
 vless://2caefa05-f33b-426f-8b2e-536c99ffb45b@193.233.127.76:40189?security=tls&fp=firefox&sni=nl3.pg.fastlanehosting.ru#0322 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&sid=684c7531e599dec0&sni=www.microsoft.com#0114 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-hysteria2://lvu_1f46c9c7e44bef3f9974936d87ee4f44_1f900674c11bcad65b09ef1f77502ea5:np2.1.z9PBCLlUfCKIMqYEuafOnTLQIjz8lGsSRofhhXAlFdc@n38.neproxy.net:9443?sni=n34.neproxy.net&security=tls#0113 | 🌐 Unknown | HYSTERIA2 | TG: @YoutubeUnBlockRu
-hysteria2://lvu_1f46c9c7e44bef3f9974936d87ee4f44_1f900674c11bcad65b09ef1f77502ea5:np2.1.z9PBCLlUfCKIMqYEuafOnTLQIjz8lGsSRofhhXAlFdc@n36.neproxy.net:11443?sni=n37.neproxy.net&security=tls#0259 | 🌐 Unknown | HYSTERIA2 | TG: @YoutubeUnBlockRu
-vless://d34c4e7c-3eac-4a26-adb9-9004b6981ad8@45.192.194.104:35600?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zHmC_LkSMSrRHcetzsRJZvu6irqviiG3vf9VuXRL6FE&sni=www.iij.ad.jp#0241 | 🇨🇳 HongKong | VLESS | TG: @YoutubeUnBlockRu
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:55688?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6dqd0hqbC0bht9RtsYamvlYdMpxyUbk7uXw0xtO8DzQ&sid=865c1b2c&sni=bilibili-vn.biliimg.com#0187 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
 hysteria2://307ee0e53ea04dfd86a7f2f9fcd53844@130.49.163.188:443?sni=s5.libertyrunet.store#0028 | 🇷🇸 Serbia | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
-vless://525d0868-cf3e-432f-9947-f9cecbb184a3@gazon.schawell.com:443?type=tcp&security=reality&fp=firefox&pbk=sdEEQBW9k_7yW1B7jdANqAhECqpuLzgVZSB0jqjiRD4&sid=1e1818d36ee209eb&sni=gazon.schawell.com#0236 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://3780cbc0-89ab-4389-b2ce-90ecf59fbe0c@107.174.41.156:10004?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=O6eJvRW2VRmLTDcpUteyRKlo_1Qp-WnW6-PLo2uZcDA&sid=4ce3101634be4cd7&sni=www.microsoft.com#0335 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+hysteria2://lvu_1f46c9c7e44bef3f9974936d87ee4f44_1f900674c11bcad65b09ef1f77502ea5:np2.1.z9PBCLlUfCKIMqYEuafOnTLQIjz8lGsSRofhhXAlFdc@n36.neproxy.net:11443?sni=n37.neproxy.net&security=tls#0259 | 🌐 Unknown | HYSTERIA2 | TG: @YoutubeUnBlockRu
+vless://e460e79d-5dd9-451d-8d1a-a84c8b70c9a7@fi4.h1cloud.net:25749?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=nmjOhfpVZtk9W-3GZk5JY0B-OvCFkjP2RvTVBNZO7lE&sid=f6b3841eabafff9a&sni=80aa2br.fi4.h1clayd.click#0051 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.211.38.49:443?#0227 | 🇩🇪 Germany | SS | 🔉 YTM | 📺 YT | TG: @YoutubeUnBlockRu
 vless://525d0868-cf3e-432f-9947-f9cecbb184a3@klumba.schawell.com:443?type=tcp&security=reality&fp=firefox&pbk=2atVh6VMaYer028-9ug8AOP6eMXX_bHJBWL6dcVkJik&sid=0236d3a0741bb77b&sni=klumba.schawell.com#0131 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxM2RxVlpKaV9VZ2o2S0xtNVRPZDQ3QjY5RWtZVk0tQQ@94.184.22.198:2050?#0017 | 🇮🇷 Iran | SS | TG: @YoutubeUnBlockRu
+vless://525d0868-cf3e-432f-9947-f9cecbb184a3@gazon.schawell.com:443?type=tcp&security=reality&fp=firefox&pbk=sdEEQBW9k_7yW1B7jdANqAhECqpuLzgVZSB0jqjiRD4&sid=1e1818d36ee209eb&sni=gazon.schawell.com#0236 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
